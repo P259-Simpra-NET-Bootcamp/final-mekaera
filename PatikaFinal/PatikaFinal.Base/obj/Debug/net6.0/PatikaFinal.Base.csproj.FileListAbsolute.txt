@@ -1,0 +1,12 @@
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\bin\Debug\net6.0\PatikaFinal.Base.deps.json
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\bin\Debug\net6.0\PatikaFinal.Base.dll
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\bin\Debug\net6.0\PatikaFinal.Base.pdb
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\obj\Debug\net6.0\PatikaFinal.Base.csproj.AssemblyReference.cache
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\obj\Debug\net6.0\PatikaFinal.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\obj\Debug\net6.0\PatikaFinal.Base.AssemblyInfoInputs.cache
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\obj\Debug\net6.0\PatikaFinal.Base.AssemblyInfo.cs
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\obj\Debug\net6.0\PatikaFinal.Base.csproj.CoreCompileInputs.cache
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\obj\Debug\net6.0\PatikaFinal.Base.dll
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\obj\Debug\net6.0\refint\PatikaFinal.Base.dll
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\obj\Debug\net6.0\PatikaFinal.Base.pdb
+C:\Users\mekae\source\repos\PatikaFinal\PatikaFinal.Base\obj\Debug\net6.0\ref\PatikaFinal.Base.dll

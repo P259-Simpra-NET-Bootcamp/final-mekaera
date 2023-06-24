@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatikaFinal.Base", "PatikaFinal.Base\PatikaFinal.Base.csproj", "{8BDF9EBD-8D8E-4634-A5DD-A207482F2E5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatikaFinal.Data", "PatikaFinal.Data\PatikaFinal.Data.csproj", "{E8BD4501-85E1-479B-92D0-90BFE16059E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatikaFinal.Service", "PatikaFinal.Service\PatikaFinal.Service.csproj", "{89749A51-E971-47B1-AA99-F66AA0EB5FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaFinal.Schema", "PatikaFinal.Schema\PatikaFinal.Schema.csproj", "{060B2CF6-914A-4754-B790-7B625A686883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaFinal.Operation", "PatikaFinal.Operation\PatikaFinal.Operation.csproj", "{C371304C-1ACE-4DDC-9DD3-76A2C6650DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDF9EBD-8D8E-4634-A5DD-A207482F2E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDF9EBD-8D8E-4634-A5DD-A207482F2E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDF9EBD-8D8E-4634-A5DD-A207482F2E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDF9EBD-8D8E-4634-A5DD-A207482F2E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BD4501-85E1-479B-92D0-90BFE16059E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BD4501-85E1-479B-92D0-90BFE16059E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BD4501-85E1-479B-92D0-90BFE16059E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BD4501-85E1-479B-92D0-90BFE16059E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89749A51-E971-47B1-AA99-F66AA0EB5FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89749A51-E971-47B1-AA99-F66AA0EB5FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89749A51-E971-47B1-AA99-F66AA0EB5FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89749A51-E971-47B1-AA99-F66AA0EB5FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060B2CF6-914A-4754-B790-7B625A686883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060B2CF6-914A-4754-B790-7B625A686883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060B2CF6-914A-4754-B790-7B625A686883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060B2CF6-914A-4754-B790-7B625A686883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C371304C-1ACE-4DDC-9DD3-76A2C6650DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C371304C-1ACE-4DDC-9DD3-76A2C6650DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C371304C-1ACE-4DDC-9DD3-76A2C6650DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C371304C-1ACE-4DDC-9DD3-76A2C6650DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E12CE8-F5C9-4B10-9B79-12B7B0532103}
+	EndGlobalSection
+EndGlobal
